@@ -1,3 +1,3 @@
 # Python-Basics
 Python Basics Assignments
-Here you can find solutions from the SofUni Python Basics course.
+Here you can find Python Basics assignments.
